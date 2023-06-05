@@ -1,0 +1,7 @@
+Instructions for task 2 python code
+
+First I load the data which is a csv file named 'orders.csv'.
+Then I check for Nan values and the data type of each column.
+I calculate frequency and order value and then merge my results with the initial dataframe.
+I define custom thresholds for frequency and order value and I assign segments based on the thresholds.
+Finally I make visualizations showing insights about the marketing campaign, which will be later used for the presentation.
