@@ -1,0 +1,6 @@
+Instructions for efood Task 2 RFM python code
+
+First I load the data which is a csv file named 'orders.csv'.
+Then I check for Nan values and the data type of each column.
+I make RFM Analysis and define segments.
+Finally I make visualizations showing insights about the marketing campaign, which will be later used for the presentation.
