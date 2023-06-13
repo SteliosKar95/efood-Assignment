@@ -12,8 +12,6 @@ FROM (
     city,
     user_id
 )
-GROUP BY
-  city
-ORDER BY
-  city;
+GROUP BY city
+ORDER BY city;
   
